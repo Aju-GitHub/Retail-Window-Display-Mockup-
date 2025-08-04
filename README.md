@@ -29,7 +29,3 @@ This design can be adapted for:
 Designed by **Ajmal M S**  
 📍 Kerala, India  
 📧 [ajmalms.prof@gmail.com](mailto:ajmalms.prof@gmail.com)
-
----
-
-✅ To Use:
