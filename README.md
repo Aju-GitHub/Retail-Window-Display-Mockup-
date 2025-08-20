@@ -2,6 +2,16 @@
 
 Created a themed fashion window layout using Canva and Pinterest trends for seasonal product promotion. Focused on symmetry, color harmony, and lighting cues to simulate customer engagement.
 
+**Repository Structure:**
+
+Retail_Window_Display_Mockup/
+
+/- Concept Image                           - Main design jpg 
+
+/- README                                  - Documentation
+
+/- Themed Visual Merchandising Display Doc - Main pdf documnet
+
 # Overview
 **Summer Breeze** is a conceptual visual merchandising design crafted to promote a seasonal fashion collection for an aesthetic storefront. This layout combines fashion, floral accents, and cheerful character illustrations to evoke the warmth and charm of summer.
 
